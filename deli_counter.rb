@@ -43,7 +43,7 @@ def now_serving (array)
   else
     
     puts (array(0))
-    array.shift
+    array(0)
     
   end
   
