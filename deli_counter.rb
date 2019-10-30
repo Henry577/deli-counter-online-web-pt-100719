@@ -42,7 +42,8 @@ def now_serving(eh)
     
   else
     
-    puts (eh(0))
+    string = eh(0)
+    puts (string)
     eh.delete_at(0)
     
   end
