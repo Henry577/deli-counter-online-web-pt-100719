@@ -42,7 +42,7 @@ def now_serving(array)
     
   else
     
-    puts ("Currently serving #{array(0)}.")
+    puts ("Currently serving #{array[0]}.")
     
     new_array = array.shift
     
