@@ -42,7 +42,7 @@ def now_serving(array)
     
   else
     
-    puts array(0)
+    puts (array(0))
     
   end
   
