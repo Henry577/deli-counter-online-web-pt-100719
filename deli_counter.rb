@@ -36,7 +36,7 @@ end
 
 def now_serving(array)
   
-  if other_deli.size < 1
+  if array.size < 1
     
     puts ("There is nobody waiting to be served!")
     
