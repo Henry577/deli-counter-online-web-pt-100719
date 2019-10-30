@@ -25,3 +25,5 @@ def line(people_in_queue)
   end
   
 end
+
+def take_a_number ()
