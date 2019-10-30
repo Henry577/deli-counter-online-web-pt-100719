@@ -44,6 +44,8 @@ def now_serving(array)
     
     puts ("Currently serving #{array(0)}.")
     
+    array.shift
+    
   end
   
 end
