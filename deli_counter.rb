@@ -20,7 +20,7 @@ def line(people_in_queue)
     
     new_string = new_array.join(" ") 
     
-    p new_string
+    puts new_string
       
   end
   
