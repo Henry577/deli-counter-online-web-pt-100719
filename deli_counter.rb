@@ -26,4 +26,10 @@ def line(people_in_queue)
   
 end
 
-def take_a_number ()
+def take_a_number (array, name)
+  
+  
+  
+  array.
+  
+end
