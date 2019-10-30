@@ -34,16 +34,16 @@ def take_a_number(array, name)
   
 end
 
-def now_serving(array)
+def now_serving(eh)
   
-  if array.size < 1
+  if eh.size < 1
     
     puts ("There is nobody waiting to be served!")
     
   else
     
-    puts (array(0))
-    array.delete_at(0)
+    puts (eh(0))
+    eh.delete_at(0)
     
   end
   
